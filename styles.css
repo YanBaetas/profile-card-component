@@ -105,6 +105,7 @@ body {
 }
 
 .status .status-number {
+  color: var(--very-dark-desaturated-blue);
   font-weight: 700;
   font-size: 1.3rem;
 }
